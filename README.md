@@ -1,6 +1,6 @@
 # whackascan
 ## The idea of this project is basically to automate nmap scans using docker containers
-## I have no clue if this has been done before but I see it as an interest project.
+## I have no clue if this has been done before but I see it as an interesting project.
 ## Technologies 
 
 * Python
